@@ -7,11 +7,14 @@
   <body>
 
  
-
-    <h1>It is time to javascript.</h1>
-   <img src="https://www.southsoundtalk.com/wp-content/uploads/2019/11/Coffee-ander-Latte-e1573143205948.jpg" alt="Coffee Image" style="height:500px;" /> <!-- image pointer-->
-    
-    
+<div style="background-image: url('https://html.sammy-codes.com/images/background.jpg');
+background-size: cover; height:480px; padding-top: 80px; text-align: center;">
+  <img src="https://html.sammy-codes.com/images/small-profile.jpeg" style="height:150px; border-radius: 50%; border: 10px solid #FEDE00;">
+  <h1 style="font-size:100px; color:white; margin:10px;">Sammy the Shark</h1>
+  <p style="font-size:30px; color: white;"><em>Senior Selachimorpha at DigitalOcean</em></p>
+  <p style="font-size: 20px; color:#1F9AFE;"><a href="Webpage FilePath";>About this site</a></p>
+</div>
+...
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
   </body>
 </html>
