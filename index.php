@@ -9,9 +9,9 @@
  
 <div style="background-image: url('https://html.sammy-codes.com/images/background.jpg');
 background-size: cover; height:480px; padding-top: 80px; text-align: center;">
-  <img src="https://html.sammy-codes.com/images/small-profile.jpeg" style="height:150px; border-radius: 50%; border: 10px solid #FEDE00;">
-  <h1 style="font-size:100px; color:white; margin:10px;">Sammy the Shark</h1>
-  <p style="font-size:30px; color: white;"><em>Senior Selachimorpha at DigitalOcean</em></p>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorlogo.zone%2Flogos%2Fjava%2Findex.html&psig=AOvVaw1FjSOG2cqN7qF_p-L0p_Re&ust=1667980662208000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPDb4KuOnvsCFQAAAAAdAAAAABAD" style="height:150px; border-radius: 50%; border: 10px solid #FEDE00;">
+  <h1 style="font-size:100px; color:white; margin:10px;">Javascript Functions</h1>
+  <p style="font-size:30px; color: white;"><em>Homework 5</em></p>
   <p style="font-size: 20px; color:#1F9AFE;"><a href="Webpage FilePath";>About this site</a></p>
 </div>
 ...
