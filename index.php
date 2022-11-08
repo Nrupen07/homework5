@@ -9,10 +9,10 @@
  
 <div style="background-image: url('https://html.sammy-codes.com/images/background.jpg');
 background-size: cover; height:480px; padding-top: 80px; text-align: center;">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorlogo.zone%2Flogos%2Fjava%2Findex.html&psig=AOvVaw1FjSOG2cqN7qF_p-L0p_Re&ust=1667980662208000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPDb4KuOnvsCFQAAAAAdAAAAABAD" style="height:150px; border-radius: 50%; border: 10px solid #FEDE00;">
+  <img src="https://en.wikipedia.org/wiki/Java_(programming_language)#/media/File:Java_programming_language_logo.svg" style="height:150px; border-radius: 50%; border: 10px solid #FEDE00;">
   <h1 style="font-size:100px; color:white; margin:10px;">Javascript Functions</h1>
   <p style="font-size:30px; color: white;"><em>Homework 5</em></p>
-  <p style="font-size: 20px; color:#1F9AFE;"><a href="Webpage FilePath";>About this site</a></p>
+  
 </div>
 ...
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
