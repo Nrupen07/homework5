@@ -9,7 +9,7 @@
  
 <div style="background-image: url('https://html.sammy-codes.com/images/background.jpg');
 background-size: cover; height:480px; padding-top: 80px; text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1024px-Java_programming_language_logo.svg.png" style="height:150px; border-radius: 50%; border: 10px solid #FEDE00;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1024px-Java_programming_language_logo.svg.png" style="height:150px; ">
   <h1 style="font-size:100px; color:white; margin:10px;">Javascript Functions</h1>
   <p style="font-size:30px; color: white;"><em>Homework 5</em></p>
   
