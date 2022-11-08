@@ -10,7 +10,7 @@
   
     <nav class="navbar navbar-dark bg-dark"">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">JavaScript</a>
+    <a class="navbar-brand" href="#">Javascript</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -28,11 +28,11 @@
           </a>
           <ul class="dropdown-menu">
             
-            <li><a class="dropdown-item" href="javascript.html">Javascript Function 1</a></li>
-            <li><a class="dropdown-item" href="javascript2.html">Javascript Function 2</a></li>
-            <li><a class="dropdown-item" href="javascript3.html">Javascript Function 3</a></li>
-            <li><a class="dropdown-item" href="javascript4.html">Javascript Function 4</a></li>
-            <li><a class="dropdown-item" href="javascript5.html">Javascript Function 5</a></li>
+            <li><a class="dropdown-item" href="javascript.html"> Function 1</a></li>
+            <li><a class="dropdown-item" href="javascript2.html"> Function 2</a></li>
+            <li><a class="dropdown-item" href="javascript3.html"> Function 3</a></li>
+            <li><a class="dropdown-item" href="javascript4.html"> Function 4</a></li>
+            <li><a class="dropdown-item" href="javascript5.html"> Function 5</a></li>
           
             
           </ul>
