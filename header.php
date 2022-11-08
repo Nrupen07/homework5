@@ -17,14 +17,14 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
+          <a class="nav-link active" aria-current="page" href="#">Welcome to Homework 5</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Functions</a>
+          <a class="nav-link" href="index.php">Home</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Dropdown
+            Functions
           </a>
           <ul class="dropdown-menu">
             
