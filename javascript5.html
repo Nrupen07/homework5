@@ -4,7 +4,7 @@
 
 <h1>JavaScript Function bind()</h1>
 
-<p>This example will try to display a person name after 3 seconds.</p>
+<p>This example will display a person name after 3 seconds:</p>
 
 <p id="demo"></p>
 
@@ -18,7 +18,8 @@ const person = {
   }
 }
 
-setTimeout(person.display, 3000);
+let display = person.display.bind(person);
+setTimeout(display, 3000);
 </script>
 
 </body>
